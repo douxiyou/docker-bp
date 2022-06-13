@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.douxiyou.dockerbp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.douxiyou.dockerbp.MyBundle
 
 class MyApplicationService {
 
